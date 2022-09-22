@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+  margin-top: 60px;
+}
+
+body {
+  margin: auto;
+  background: rgba(13, 25, 44, 1);
+}
+
+/* mobile size  */
+.container {
+  position: relative;
+  margin: auto; /* Centered the element */
+  height: 543px;
+  width: 327px;
+  /* margin-left: 0px;
+  margin-top: 0px; */
+  border-radius: 15px;
+  background: rgba(21, 38, 63, 1);
+  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.1);
+}
+
+.equilibriumimage {
+  position: absolute;
+  height: 278px;
+  width: 278px;
+  margin-left: 24px;
+  margin-top: 25px;
+  border-radius: 8px;
+}
+
+.equilibriumheadingtext {
+  position: absolute;
+  height: 28px;
+  width: 278px;
+  margin-left: 24px;
+  margin-top: 326px;
+  font-family: "Outfit";
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.ourequilibriumtext {
+  position: absolute;
+  height: 52px;
+  width: 278px;
+  margin-left: 24px;
+  margin-top: 366px;
+  font-family: "Outfit";
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+
+  color: rgba(139, 172, 217, 1);
+}
+
+.combinedshape {
+  position: absolute;
+  height: 18px;
+  width: 11px;
+  margin-left: 24px;
+  margin-top: 435px;
+  border-radius: 0px;
+}
+
+.ETHtext {
+  position: absolute;
+  height: 19px;
+  width: 70px;
+  margin-left: 42px;
+  margin-top: 434px;
+  font-family: "Outfit";
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(0, 255, 248, 1);
+}
+
+.shape {
+  position: absolute;
+  height: 14px;
+  width: 14px;
+  border-radius: 0px;
+  margin-top: 437px;
+  margin-left: 210px;
+  color: rgba(139, 172, 217, 1);
+}
+.dayslefttext {
+  position: absolute;
+  height: 19px;
+  width: 68px;
+  margin-left: 233px;
+  margin-top: 434px;
+  font-family: "Outfit";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(139, 172, 217, 1);
+}
+
+.rectangle {
+  position: absolute;
+  height: 1px;
+  width: 278px;
+  margin-left: 24px;
+  margin-top: 469px;
+  border-radius: 0px;
+  color: rgba(46, 64, 90, 1);
+}
+
+.lastphotoofaboy {
+  position: absolute;
+  height: 33px;
+  width: 33px;
+  margin-left: 24px;
+  margin-top: 486px;
+  border-radius: 30px;
+  color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+
+.creationtext {
+  position: absolute;
+  height: 19px;
+  width: 76px;
+  margin-left: 73px;
+  margin-top: 493px;
+  font-family: Outfit;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(139, 172, 217, 1);
+}
+.julestext {
+  position: absolute;
+
+  height: 19px;
+  width: 88px;
+  margin-left: 154px;
+  margin-top: 493px;
+  color: rgba(255, 255, 255, 1);
+}
